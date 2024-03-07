@@ -9,8 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithzzz&label=Profile%20views&color=0e75b6&style=flat" alt="mithzzz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithzzz" alt="mithzzz" /></a> </p>
+<img align="right" width="370" src="https://github.com/mithzzzz/mithzzzz/assets/139617356/d4ad8279-4714-4289-9643-040f6aefa4fd"/> 
 
 <p align="left"> <a href="https://twitter.com/apmithzzz" target="blank"><img src="https://img.shields.io/twitter/follow/apmithzzz?logo=twitter&style=for-the-badge" alt="apmithzzz" /></a> </p>
+
+
+
 
 - 🌱 I’m currently learning **react.js, next.js**
 
@@ -18,7 +22,7 @@
 
 - 📫 How to reach me **midhunap49@gmail.com**
 
-<p><img align="right" alt="Coding" width="600" src="https://images.app.goo.gl/m57UKXDN6D8viTxw6"/> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
