@@ -1,4 +1,4 @@
- <img align="center"   src="https://github.com/mithzzzz/mithzzzz/assets/139617356/6ff5c419-0ebf-4b93-815d-8b28696dd7d6"/>
+![1_h1jRVR4C-HhRP5olrfNNuQ](https://github.com/mithzzzz/mithzzzz/assets/139617356/a99b3df8-b9b9-4a50-996d-d8fff79e3c5f)
 
 
 <h1 align="center">Hi 👋, I'm Midhun AP</h1>
