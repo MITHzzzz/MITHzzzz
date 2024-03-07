@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/XisogkRjgdzDWHbu5)]
+ <img align="center"   src="https://github.com/mithzzzz/mithzzzz/assets/139617356/6ff5c419-0ebf-4b93-815d-8b28696dd7d6"/>
 
 
 <h1 align="center">Hi 👋, I'm Midhun AP</h1>
