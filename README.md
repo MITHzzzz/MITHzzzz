@@ -1,4 +1,4 @@
-https://github.com/mithzzzz/mithzzzz/assets/139617356/41476922-298d-4fef-a488-9523ef3d6518
+![Black Modern Personal LinkedIn Banner](https://github.com/mithzzzz/mithzzzz/assets/139617356/44ba4599-83a4-4c79-b967-19fd0bae484c)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
