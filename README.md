@@ -1,4 +1,4 @@
-![Black  Banner](https://github.com/mithzzzz/mithzzzz/assets/139617356/fe30129c-3235-41bc-8c02-24beefdfbe0f)
+![ss](https://github.com/mithzzzz/mithzzzz/assets/139617356/8fa6805f-6d19-427d-a3d0-f9be1e375a5a)
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
